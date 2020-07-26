@@ -10,20 +10,25 @@
 --------------------------------------------------------------*/
 
 body {
-  background: #fff;
-  color: #666666;
+  background: #E8EDED;
+  color: #454843;
   font-family: "Open Sans", sans-serif;
 }
+/*  #454843 dunkel
+    #E8EDED hell
+    #B5C5C3 acc hell
+    #628683 acc dunkel
 
+*/
 a {
-  color: #18d26e;
+  color: #628683;
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #18d36e;
+  color: #B5C5C3;
   outline: none;
   text-decoration: none;
 }
